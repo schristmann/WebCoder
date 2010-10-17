@@ -1,0 +1,33 @@
+{
+	"accountHolder" : "Sean Christmann",
+	"accounts" : [
+		{
+			"name" : "Checking",
+			"index" : 1111,
+			"balance" : 1256.30,
+			"active" : true,
+			"lastTransaction" : {
+				"amount" : -613.00,
+				"date" : "2010-10-08T14:33:00"
+			}
+		},
+		{
+			"name" : "IRA",
+			"index" : 2222,
+			"balance" : 21040.86,
+			"active" : true,
+			"lastTransaction" : {
+				"amount" : 2000.00,
+				"date" : "2010-09-21T09:20:00"
+			}
+		},
+		{
+			"name" : "Savings",
+			"index" : 3333,
+			"balance" : 0.00,
+			"active" : false,
+			"lastTransaction" : null
+		}
+	],
+	"timeStamp" : "2010-10-24T13:25:00"
+}

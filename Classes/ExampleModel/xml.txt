@@ -1,0 +1,32 @@
+<accountOverview>
+	<accountHolder>Sean Christmann</accountHolder>
+	<accounts>
+		<account>
+			<name>Checking</name>
+			<index>1111</index>
+			<balance>1256.30</balance>
+			<active>true</active>
+			<lastTransaction>
+				<amount>-613.00</amount>
+				<date>2010-10-08T14:33:00</date>
+			</lastTransaction>
+		</account>
+		<account>
+			<name>IRA</name>
+			<index>2222</index>
+			<balance>21040.86</balance>
+			<active>true</active>
+			<lastTransaction>
+				<amount>2000.00</amount>
+				<date>2010-09-21T09:20:00</date>
+			</lastTransaction>
+		</account>
+		<account>
+			<name>Savings</name>
+			<index>3333</index>
+			<balance>0.00</balance>
+			<active>false</active>
+		</account>
+	</accounts>
+	<timeStamp>2010-10-24T13:25:00</timeStamp>
+</accountOverview>
